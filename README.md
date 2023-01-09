@@ -14,7 +14,7 @@ El grupo 6 esta formado por : Lola Rubio, Marina Ruiz, Sandra Fernandez y Paula 
 - EDA: podemos encontrar el JupyterNotebook con el análisis exploratorio de los datos.
 - Exploracion_unificacion: contiene los notebooks realizados para la limpieza preliminar y la unión de los diferentes archivos facilitados por la encuesta.
 - Limpieza: contiene el notebook de limpieza tras la unión para poder tener las columnas en el mismo formato y poder realizar correctamente el EDA
-- Arvhico indice de contenidos: indice más detallado de los contenidos del repositorio.
+- Archivo indice de contenidos: indice más detallado de los contenidos del repositorio.
 
 ## Preguntas objetivo
 Para el análisis de los datos nos hemos planteado una serie de preguntas a las que daremos respuesta a través del análisis gráfico mediante Matplotlib/Seaborn:
