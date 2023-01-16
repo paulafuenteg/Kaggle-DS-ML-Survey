@@ -1,4 +1,7 @@
 # Repositorio del proyecto del modulo 2 grupo 6 del Bootcamp de DA.
+
+![wordcloud](https://user-images.githubusercontent.com/114858493/212744269-f98a38ba-04dc-45cd-8806-819ab83696f5.png)
+
 El objetivo del proyecto es el análisis a través de visualización de los resultados de una encuesta de Keagle sobre el comportamiento del sector del ML y data science.
 Partimos de cuatro archivos en diferentes formatos que continen respuestas a las diferentes preguntas de la encuesta.
 El grupo 6 esta formado por : Lola Rubio, Marina Ruiz, Sandra Fernandez y Paula Fuente
@@ -31,6 +34,14 @@ Para el análisis de los datos nos hemos planteado una serie de preguntas a las 
 ## Conclusiones obtenidas
 El bootcamp de de Data Analytics de Adalab se adapta perfectamente a las necesidades presentes como futuras del mercado ya que su oferta académica se basa en  lenguajes como python y SQL, las herramientas de visualización son Matplotlib y Seaborn y la de bi es Tableau, aunque como recomendación proponemos incluir PowerBI y MongoDB dentro de su oferta académica.
 
+![lenguajes](https://user-images.githubusercontent.com/114858493/212744104-59910578-db05-4978-bec2-1cbf6fb5d778.png)
+![herr_vis_def](https://user-images.githubusercontent.com/114858493/212744141-63fa1b0c-892e-4e51-85c0-0fc23a38c341.png)
+
+![big_data](https://user-images.githubusercontent.com/114858493/212744135-fe755ac8-fa75-486a-b4c9-340b0042965a.png)
+![business_inteligence](https://user-images.githubusercontent.com/114858493/212744138-5bbaa9b1-8cff-4fd5-9a6b-11113abdb6be.png)
+
 
 Por otro lado otra importante coclusión es que la brecha de género dentro del sector tech es muy amplia y aún nos queda mucho camino para lograr la paridad. 
 
+![puestos_genero](https://user-images.githubusercontent.com/114858493/212744142-655a0bb1-3a90-4487-864e-f007007cdfc4.png)
+![salario_genero](https://user-images.githubusercontent.com/114858493/212744143-debfdee6-f079-496c-8087-b3543d3525a9.png)
