@@ -1,4 +1,4 @@
-# Repositorio del proyecto del modulo 2 grupo 6 del Bootcamp de DA.
+# Proyecto Kaggle-DS-ML-Survey 
 
 ![wordcloud](https://user-images.githubusercontent.com/114858493/212744269-f98a38ba-04dc-45cd-8806-819ab83696f5.png)
 
